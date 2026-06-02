@@ -1,0 +1,30 @@
+{
+  "name": "daily-plan",
+  "version": "2.0.0",
+  "description": "个人每日工作计划、番茄钟、周复盘工具 - 支持数据同步与导出",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo 'Static site - no build needed'",
+    "deploy": "scp -r . ubuntu@211.159.173.109:/var/www/html/daily-plan/"
+  },
+  "keywords": [
+    "productivity",
+    "pomodoro",
+    "weekly-plan",
+    "review",
+    "todo",
+    "pwa",
+    "feishu-sync"
+  ],
+  "author": "yinxiaowei10",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yinxiaowei10/daily-plan.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yinxiaowei10/daily-plan/issues"
+  },
+  "homepage": "https://github.com/yinxiaowei10/daily-plan#readme"
+}

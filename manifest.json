@@ -1,0 +1,44 @@
+{
+  "name": "DailyPlan - 周计划与复盘",
+  "short_name": "DailyPlan",
+  "description": "个人每日工作计划、番茄钟、周复盘工具",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#FAF7F2",
+  "theme_color": "#E85D04",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "assets/icon-72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icon-96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icon-128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icon-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["productivity", "lifestyle"],
+  "lang": "zh-CN"
+}
